@@ -40,8 +40,8 @@
 
 ### 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-- 📧 Email: **seu.email@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fernando-rocha-3b6b36378)  
+- 📧 Email: **fernando.rocha.dev@gmail.com**  
 - 📁 Portfólio (em breve)
 
 ---
